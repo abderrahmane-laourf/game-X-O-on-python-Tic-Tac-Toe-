@@ -40,7 +40,7 @@ To set up the Tic Tac Toe game locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/tic-tac-toe.git
+   https://github.com/abderrahmane-laourf/game-X-O-on-python-Tic-Tac-Toe-.git
 Navigate to the project directory:
 
 bash
