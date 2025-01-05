@@ -32,7 +32,7 @@ Key features include:
 - **Simple Interface**: Clean, minimalistic GUI with Tkinter.
 - **Reset Button**: Option to reset the game board after a win or a draw.
 - **Cross-Platform**: Runs on any system with Python and Tkinter installed.
-
+Enjoy playing Tic Tac Toe! Don't forget to ⭐️ this repository if you liked it!
 ---
 
 ## Installation 🛠️
