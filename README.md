@@ -101,7 +101,7 @@ Acknowledgments 🙌
 [Your Name] for developing the game.
 Tkinter for the graphical interface.
 [Any other libraries or resources used].
-Enjoy playing Tic Tac Toe! Don't forget to ⭐️ this repository if you liked it!
+
 
 markdown
 Copier le code
