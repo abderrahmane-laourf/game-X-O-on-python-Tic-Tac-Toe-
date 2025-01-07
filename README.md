@@ -25,7 +25,7 @@ Key features include:
 - A reset option to start a new game.
 
 ---
-l
+
 ## Features ✨
 - **Multiplayer Mode**: Play with a friend locally, alternating turns.
 - **Winning Logic**: Highlights the winning line in blue when a player wins.
