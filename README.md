@@ -23,7 +23,6 @@ Key features include:
 - Real-time gameplay between two players.
 - A blue highlight for the winning line.
 - A reset option to start a new game.
-
 ---
 
 ## Features ✨
