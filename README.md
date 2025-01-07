@@ -41,7 +41,6 @@ To set up the Tic Tac Toe game locally, follow these steps:
    ```bash
    https://github.com/abderrahmane-laourf/game-X-O-on-python-Tic-Tac-Toe-.git
 Navigate to the project directory:
-
 bash
 Copier le code
 cd tic-tac-toe
