@@ -4,7 +4,7 @@ A simple and interactive Tic Tac Toe game where two players take turns to place 
 
 ---
 
-## Table of Contents 📋
+## Table o Contents 📋
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Installation](#installation)
