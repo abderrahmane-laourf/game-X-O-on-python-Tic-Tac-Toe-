@@ -42,7 +42,7 @@ To set up the Tic Tac Toe game locally, follow these steps:
    https://github.com/abderrahmane-laourf/game-X-O-on-python-Tic-Tac-Toe-.git
 Navigate to the project directory:
 bash
-Copier le cod
+Copier le codE
 cd tic-tac-toe
 Ensure Python is installed:
 Make sure you have Python 3.x and Tkinter installed. Tkinter usually comes pre-installed with Python.
