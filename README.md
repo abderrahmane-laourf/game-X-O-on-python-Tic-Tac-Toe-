@@ -60,7 +60,7 @@ After the game ends, you can reset the board and play again.
 Example Gameplay:
 Player X places their symbol in the center square.
 Player O places their symbol in a corner.
-The game continues until one player wins or all squares are filled.
+The game continues until one player wins or all squares are fiLled.
 Roadmap 🛣️
 Current Status:
  Basic Tic Tac Toe functionality (X/O placement).
