@@ -65,7 +65,7 @@ Roadmap 🛣️
 Current Status:
  Basic Tic Tac Toe functionality (X/O placement).
  Winning logic (horizontal, vertical, diagonal).
- Blue highlight for the winning line.
+ Blue highlight for the winning line;
  Add AI for single-player mode (optional).
  Improve game reset functionality (optional).
 Contributing 🤝
