@@ -67,7 +67,7 @@ Current Status:
  Winning logic (horizontal, vertical, diagonal).
  Blue highlight for the winning line;
  Add AI for single-player mode (optional).
- Improve game reset functionality (optional).
+ Improve game reset functionality (optional)
 Contributing 🤝
 We welcome contributions to improve this game! To contribute:
 
