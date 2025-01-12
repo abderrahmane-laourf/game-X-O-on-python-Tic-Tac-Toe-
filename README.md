@@ -63,7 +63,7 @@ Player O places their symbol in a corner.
 The game continues until one player wins or all squares are fiLled.
 Roadmap 🛣️
 Current Status:
- Basic Tic Tac Toe functionality (X/O placement).
+ Basic Tic Tac Toe functionality (X/O placement)
  Winning logic (horizontal, vertical, diagonal).
  Blue highlight for the winning line;
  Add AI for single-player mode (optional).
