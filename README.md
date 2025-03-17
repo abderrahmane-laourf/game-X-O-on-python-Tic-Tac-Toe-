@@ -12,7 +12,6 @@ A simple and interactive Tic Tac Toe game where two players take turns to place 
 7. [License](#license)
 8. [Contact](#contact)
 ---
-
 ## Overview 🌟
 The **Tic Tac Toe (XO)** game is a popular two-player board game. Players alternate placing "X" and "O" in a grid with the objective to get three of their marks in a row. This project provides a simple implementation of the game in Python using Tkinter for the graphical user interface (GUI).
 
