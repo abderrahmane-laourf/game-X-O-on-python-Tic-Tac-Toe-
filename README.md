@@ -1,5 +1,4 @@
 # Tic Tac Toe (XO) Game 🎮
-
 A simple and interactive Tic Tac Toe game where two players take turns to place "X" or "O" in a 3x3 grid, aiming to align three symbols in a row horizontally, vertically, or diagonally to win
 ---
 ## Table of Contents 📋
