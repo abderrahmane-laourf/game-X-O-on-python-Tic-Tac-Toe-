@@ -1,5 +1,4 @@
 from tkinter import *
-
 # Initialisation des variables
 player = "X"
 winner = None
