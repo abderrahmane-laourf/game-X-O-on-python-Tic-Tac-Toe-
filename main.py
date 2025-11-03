@@ -4,7 +4,6 @@ from tkinter import *
 player = "X"
 winner = None
 
-
 # Fonction pour changer de joueur
 def next_player():
     global player
